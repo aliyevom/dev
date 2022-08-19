@@ -1,9 +1,8 @@
 <h1 align="center">Aliyev Omar</h1>
 
 
-<h2> About Me <img src = "Images/DevOps.gif" width = "100"></h2>
 
-<img width="55%" align="right" alt="Github" src="Images/git-header.svg" />
+
 
 - 🔭 I’m currently working on **DevOps Project**
 
