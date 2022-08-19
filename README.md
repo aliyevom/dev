@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ajinkya</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+<h1 align="center">Aliyev Omar</h1>
+
 
 <h2> About Me <img src = "Images/DevOps.gif" width = "100"></h2>
 
@@ -13,23 +13,18 @@
 
 - 💬 Talk to me about **AWS, DevOps, Automation, Freelancing Opportunites, Open Source**
 
-- 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/AtiwadkarAjinkya?tab=repositories)
-
-- 📝 I regularly write articles on [HowToForge](https://www.howtoforge.com/author/ajinkya+atiwadkar/)
-
-- 📫 How to reach me **ajinkya.atiwadkar@gmail.com**
 
 <br><br><br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atiwadkarajinkya&label=Profile%20views&color=0e75b6&style=flat" alt="atiwadkarajinkya" /> </p>
+<p align="left"> <img src="https://github.com/aliyevom" alt="Aliyevom" /> </p>
 
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=atiwadkarajinkya&column=3&margin-w=15&margin-h=15" alt="atiwadkarajinkya"/></p>
+<p align="center"><img src="https://github.com/aliyevom" alt="Aliyevom"/></p>
 
 <h2> Connect with me <img src='Images/handshake.gif' width="100"> </h2>
 <p align="left">
-<a href="https://linkedin.com/in/atiwadkarajinkya" target="blank"><img align="center" src="Images/linked-in-alt.svg" alt="atiwadkarajinkya" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/5295737" target="blank"><img align="center" src="Images/stack-overflow.svg" alt="atiwadkarajinkya" height="30" width="40" /></a>
-<a href = 'https://www.github.com/atiwadkarajinkya'> <img align= 'center' src="Images/github.svg" alt="atiwadkarajinkya height="30" width="40" /></a> 
+<a href="https://www.linkedin.com/in/aliyevom/" target="blank"><img align="center" src="Images/linked-in-alt.svg"  height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aliyevom/" target="blank"><img align="center" src="Images/stack-overflow.svg"  height="30" width="40" /></a>
+<a href = 'https://github.com/aliyevom'> <img align= 'center' src="Images/github.svg"  height="30" width="40" /></a> 
 </p>
 
 <br>
@@ -103,27 +98,5 @@
 
 </table>
 
-<h3 align="left">Support:</h3>
-<p float="left">
 
-<a href="https://www.buymeacoffee.com/theAjinkya"> <img align="left" src="Images/coffee.gif" height="150" width="225" alt="theAjinkya" /></a>
-
-<a href="https://ko-fi.com/theajinkya"><img align="left" src="Images/ko-fi.gif" height="150" width="225" alt="theAjinkya" /></a>
-
-</p><br><br><br><br><br><br><br><br>
-
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=atiwadkarajinkya&show_icons=true&locale=en" alt="atiwadkarajinkya" width="350" />&nbsp;&nbsp;&nbsp;&nbsp;
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atiwadkarajinkya&show_icons=true&locale=en&layout=compact" alt="atiwadkarajinkya" width="350" />
-
-<!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atiwadkarajinkya&" alt="atiwadkarajinkya" width="450" /> -->
-</p>
-
-<p>
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32'></h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=onedark)
-
-</p>
 
