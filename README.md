@@ -27,7 +27,7 @@
 <a href = 'https://github.com/aliyevom'> <img align= 'center' src="Images/github.svg"  height="30" width="40" /></a> 
 </p>
 
-<br>
+
 
 <!-- <h2> Skills <img src = "Images/Skills.gif" width = 32> </h2> -->
 
