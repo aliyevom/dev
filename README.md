@@ -1,4 +1,4 @@
-<h1 align="center">░░░░░░░░░░░░░░░░░                       Hi 👋 ░░░░░░░░░░░░░░░░░  
+<h1 align="center">░░░░░░░░░                      Hi 👋 ░░░░░░░░░  
 
 <div align="center">
   <img height="200" src="https://media.giphy.com/media/9MVgdKcIYwiYGUBTsj/giphy.gif"  />
