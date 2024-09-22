@@ -94,59 +94,42 @@
         </ul>
     </section>
 
-    <script>
-        // Fetch repository data from the GitHub API endpoint for 'aliyevom'
-        fetch('https://api.github.com/users/aliyevom/repos')
-            .then(response => response.json())
-            .then(data => {
-                // Get the ul element to append projects
-                const projectList = document.getElementById('project-list');
+   <script>
+    // Fetch repository data from the GitHub API endpoint for 'aliyevom'
+    fetch('https://api.github.com/users/aliyevom/repos')
+        .then(response => response.json())
+        .then(data => {
+            // Get the ul element to append projects
+            const projectList = document.getElementById('project-list');
 
-                // Iterate through the fetched repositories and create list items with links
-                data.forEach(repo => {
-                    // Filter out specific repository names
-                    if (repo.name !== 'install-python-virtual-environment' &&
-                        repo.name !== 'docker-cheat-sheet' &&
-                        repo.name !== 'devops-essentials-sample-app' &&
-                        repo.name !== 'cheat-sheet-pdf' &&
-                        repo.name !== 'Aliyev-Portfolio-Beta' &&
-                        repo.name !== 'aliyevom' &&
-                        repo.name !== 'dev' &&
-                        repo.name !== 'dev') {
-                        const listItem = document.createElement('li');
-                        const link = document.createElement('a');
-                        link.href = repo.html_url; // URL of the repository on GitHub
-                        link.textContent = repo.name;
-                        listItem.appendChild(link);
-                        projectList.appendChild(listItem);
-                    }
-                });
-            })
-            .catch(error => {
-                console.error('Error fetching and displaying repository data:', error);
-            });
-
-        // Fetch repository data from the GitHub API endpoint for 'Hawkincloud'
-        fetch('https://api.github.com/users/Hawkincloud/repos')
-            .then(response => response.json())
-            .then(data => {
-                // Get the ul element to append projects
-                const projectList = document.getElementById('project-list');
-
-                // Iterate through the fetched repositories and create list items with links
-                data.forEach(repo => {
+            // Iterate through the fetched repositories and create list items with links
+            data.forEach(repo => {
+                // Filter out specific repository names
+                if (repo.name !== 'install-python-virtual-environment' &&
+                    repo.name !== 'docker-cheat-sheet' &&
+                    repo.name !== 'devops-essentials-sample-app' &&
+                    repo.name !== 'cheat-sheet-pdf' &&
+                    repo.name !== 'Aliyev-Portfolio-Beta' &&
+                    repo.name !== 'aliyevom' &&
+                    repo.name !== 'dev' &&
+                    repo.name !== 'VoiceIDO' &&
+                    repo.name !== 'Olauncher' &&
+                    repo.name !== 'github-actions-part2-cicd-to-aws' &&
+                    repo.name !== 'AWS-cloudcraft' &&
+                    repo.name !== 'Hawkincloud-App') {
                     const listItem = document.createElement('li');
                     const link = document.createElement('a');
                     link.href = repo.html_url; // URL of the repository on GitHub
                     link.textContent = repo.name;
                     listItem.appendChild(link);
                     projectList.appendChild(listItem);
-                });
-            })
-            .catch(error => {
-                console.error('Error fetching repository data for Hawkincloud:', error);
+                }
             });
-    </script>
+        })
+        .catch(error => {
+            console.error('Error fetching and displaying repository data:', error);
+        });
+</script>
     <!-- Skills -->
     
    
